@@ -1,0 +1,61 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 150, 210);
+    font-size: 50px;
+}
+
+#bus {
+    text-align: center;
+    color: rgb(212, 175, 55);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: verdana;
+}
+
+#pp {
+    text-align: center;
+    color: rgb(0, 150, 210);
+    font-size: 35px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#vv {
+    text-align: center;
+    color: rgb(148, 149, 151);
+    font-size: 35px;
+    font-weight: bold;
+    font-family: geneva;
+}
+
+div {
+    text-align: center;
+}
+
+#gg {
+    text-align: center;
+    color: rgb(162, 22, 255);
+    font-size: 35px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#chu {
+    text-align: center;
+    color: rgb(148, 149, 151);
+    font-size: 35px;
+    font-weight: bold;
+    font-family: -apple-system;
+}
+
+#i {
+    text-align: center;
+    color: rgb(0, 38, 141);
+    font-size: 35px;
+    font-weight: bold;
+    font-family: serif;
+}
